@@ -1,5 +1,5 @@
 {
-   "name": "jwt-express-mysql-typeorm-typescript-template",
+   "name": "cra-template-jwt-express-mysql-typeorm-typescript-template",
    "version": "1.0.0",
    "description": "Simple Rest API template with TypeORM.",
    "type": "commonjs",
