@@ -9,3 +9,6 @@ npx create-react-app my-app --template jwt-express-mysql-typeorm-typescript-temp
 # or
 yarn create react-app my-app --template jwt-express-mysql-typeorm-typescript-template
 ```
+# LICENSE
+
+MIT
