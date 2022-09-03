@@ -11,4 +11,4 @@ yarn create react-app my-app --template jwt-express-mysql-typeorm-typescript-tem
 ```
 # LICENSE
 
-MIT
+[MIT](https://github.com/baontq23/jwt-express-mysql-typeorm-typescript-template/blob/master/LICENSE)
